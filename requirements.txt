@@ -5,3 +5,4 @@ langchain-experimental
 python-dotenv
 langchain_ollama
 reportlab
+dotenv

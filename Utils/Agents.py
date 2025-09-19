@@ -9,7 +9,7 @@ class Agent:
         # Initialize the prompt based on role and other info
         self.prompt_template = self.create_prompt_template()
         # Initialize the model
-        self.model = ChatOpenAI(temperature=0, model="gpt-4o")
+        self.model = ChatOpenAI(temperature=0, model="gpt-5")
 
     def create_prompt_template(self):
         if self.role == "MultidisciplinaryTeam":
@@ -50,7 +50,7 @@ class Agent:
                     Patient's Report: {medical_report}
                 """
             }
-        templates = templates[self.role]
+            templates = templates[self.role]
         return PromptTemplate.from_template(templates)
     
     def run(self):
