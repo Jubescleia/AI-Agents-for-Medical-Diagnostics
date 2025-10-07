@@ -8,10 +8,10 @@ import json, os
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 # Loading API key from a dotenv file.
-load_dotenv(dotenv_path='apikey.env')
+API_KEY = os.getenv("OPENROUTER_API_KEY")
 
 # read the medical report
-with open("Medical Reports\Medical Rerort - Michael Johnson - Panic Attack Disorder.txt", "r") as file:
+with open("Project\AI-Agents-for-Medical-Diagnostics\Medical Reports\Medical Rerort - Michael Johnson - Panic Attack Disorder.txt", "r", encoding="utf-8") as file:
     medical_report = file.read()
 
 
@@ -44,13 +44,15 @@ team_agent = MultidisciplinaryTeam(
 # Run the MultidisciplinaryTeam agent to generate the final diagnosis
 final_diagnosis = team_agent.run()
 final_diagnosis_text = "### Final Diagnosis:\n\n" + final_diagnosis
-txt_output_path = "results/final_diagnosis.txt"
+# Save inside the project's Results directory next to this script
+base_dir = os.path.dirname(os.path.abspath(__file__))
+txt_output_path = os.path.join(base_dir, "Results", "final_diagnosis2.txt")
 
 # Ensure the directory exists
 os.makedirs(os.path.dirname(txt_output_path), exist_ok=True)
 
 # Write the final diagnosis to the text file
-with open(txt_output_path, "w") as txt_file:
+with open(txt_output_path, "w", encoding="utf-8") as txt_file:
     txt_file.write(final_diagnosis_text)
 
 print(f"Final diagnosis has been saved to {txt_output_path}")

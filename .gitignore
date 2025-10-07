@@ -112,6 +112,5 @@ datasets/
 *.xlsx
 
 # Results
-results/
 outputs/
 logs/
