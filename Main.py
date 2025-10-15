@@ -11,7 +11,6 @@ import json, os
 API_KEY = os.getenv("OPENROUTER_API_KEY")
 
 # read the medical report
-with open("Medical Reports\Medical Rerort - Michael Johnson - Panic Attack Disorder.txt", "r", encoding="utf-8") as file:
 with open("/Users/lucianarocha/Documents/Faculdade/4ºAno/1ºSemestre/IACH/Project/Projeto/AI-Agents-for-Medical-Diagnostics/Medical Reports/Medical Rerort - Michael Johnson - Panic Attack Disorder.txt", "r", encoding="utf-8") as file:
     medical_report = file.read()
 
