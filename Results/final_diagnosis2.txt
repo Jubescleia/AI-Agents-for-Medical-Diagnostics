@@ -1,13 +1,7 @@
 ### Final Diagnosis:
 
-- **Panic disorder (primary anxiety‑driven)**
-  * The episodes are sudden, 10–20 min in duration, and accompanied by chest pain, palpitations, diaphoresis, dizziness, and a pronounced sense of doom—classic panic‑attack features.  
-  * Cardiac work‑up (echo, Holter, enzymes) has been normal, and the psychologist’s evaluation flags panic disorder as the most likely explanation for the somatic symptoms.  
+- **Panic Disorder / Health‑Related Anxiety** – The psychologist's report lists classic panic‑attack features (shortness of breath, chest tightness, impending doom) and ongoing health anxiety; the cardiology work‑up found no structural or ischemic disease, supporting an anxiety‑driven origin.
 
-- **Exercise‑induced arrhythmia / transient myocardial ischemia**
-  * Holter monitoring shows occasional premature ventricular complexes (PVCs) and the cardiologist notes that brief, self‑terminating arrhythmic events can produce the reported palpitations and chest discomfort.  
-  * The episodic nature of the symptoms (10–20 min during or after exertion) is consistent with either a latent arrhythmia or microvascular ischemia/vasospasm that would be uncovered by extended rhythm monitoring or exercise stress testing.  
+- **Premature Ventricular Contractions (PVC‑related Arrhythmia)** – Holter monitoring recorded occasional PVCs, which can trigger brief chest discomfort or light‑headedness; while not sustained, they remain a plausible organic explanation for the episodic symptoms.
 
-- **Asthma / reactive airway disease (or vocal‑cord dysfunction)**
-  * The pulmonologist recognizes symptoms of shortness of breath and chest tightness that could be due to reversible airway obstruction, even though the exam is currently clear.  
-  * A bronchodilator‑responsive pattern on spirometry would explain the episodic SOB and chest tightness, while the absence of wheeze could also point toward vocal‑cord dysfunction, both of which can coexist with anxiety.
+- **Potential Coronary Vasospasm (Prinzmetal‑type Angina)** – Episodes of chest pain, diaphoresis, and dizziness at rest fit a vasospastic pattern; normal resting ECG/echo and lack of sustained arrhythmias do not rule out micro‑vasospasm, making it a reasonable differential.
