@@ -1,7 +1,13 @@
 ### Final Diagnosis:
 
-- **Panic disorder with health‑anxiety** – the patient experiences recurrent, brief panic attacks (10–20 min) with sudden chest pain, palpitations, dizziness, shortness of breath and a feeling of impending doom, yet all cardiac tests (ECG, troponin, Holter, echo) are normal.  These findings, combined with a history of generalized anxiety and documented health‑anxiety, strongly point to a primary psychiatric trigger for the physical symptoms.
+- **Panic disorder (primary anxiety‑driven)**
+  * The episodes are sudden, 10–20 min in duration, and accompanied by chest pain, palpitations, diaphoresis, dizziness, and a pronounced sense of doom—classic panic‑attack features.  
+  * Cardiac work‑up (echo, Holter, enzymes) has been normal, and the psychologist’s evaluation flags panic disorder as the most likely explanation for the somatic symptoms.  
 
-- **Mild intermittent asthma / exercise‑induced bronchospasm** – episodes of sudden shortness of breath and chest tightness that appear with exertion or stress, but with a normal resting chest exam and no wheeze.  Asthma can be completely asymptomatic at rest and is often precipitated by physical activity, anxiety, or GERD, matching the patient’s symptoms and the pulmonologist’s differential.
+- **Exercise‑induced arrhythmia / transient myocardial ischemia**
+  * Holter monitoring shows occasional premature ventricular complexes (PVCs) and the cardiologist notes that brief, self‑terminating arrhythmic events can produce the reported palpitations and chest discomfort.  
+  * The episodic nature of the symptoms (10–20 min during or after exertion) is consistent with either a latent arrhythmia or microvascular ischemia/vasospasm that would be uncovered by extended rhythm monitoring or exercise stress testing.  
 
-- **Paroxysmal supraventricular tachycardia (PSVT) / orthostatic tachycardia (POTS)** – the cardiology report lists PSVT, paroxysmal AF, and POTS as likely causes of the palpitations, dizziness, transient chest discomfort, and brief SOB, all of which are missed on a single‑day Holter.  Extended ambulatory monitoring is recommended because these arrhythmias are intermittent and can explain the episodic nature of the patient’s symptoms.
+- **Asthma / reactive airway disease (or vocal‑cord dysfunction)**
+  * The pulmonologist recognizes symptoms of shortness of breath and chest tightness that could be due to reversible airway obstruction, even though the exam is currently clear.  
+  * A bronchodilator‑responsive pattern on spirometry would explain the episodic SOB and chest tightness, while the absence of wheeze could also point toward vocal‑cord dysfunction, both of which can coexist with anxiety.
