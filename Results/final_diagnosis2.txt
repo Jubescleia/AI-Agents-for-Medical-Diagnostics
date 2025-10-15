@@ -1,7 +1,7 @@
 ### Final Diagnosis:
 
-- **Panic disorder with health‑anxiety** – the patient experiences recurrent, brief panic attacks (10–20 min) with sudden chest pain, palpitations, dizziness, shortness of breath and a feeling of impending doom, yet all cardiac tests (ECG, troponin, Holter, echo) are normal.  These findings, combined with a history of generalized anxiety and documented health‑anxiety, strongly point to a primary psychiatric trigger for the physical symptoms.
+- **Panic Disorder / Health‑Related Anxiety** – The psychologist's report lists classic panic‑attack features (shortness of breath, chest tightness, impending doom) and ongoing health anxiety; the cardiology work‑up found no structural or ischemic disease, supporting an anxiety‑driven origin.
 
-- **Mild intermittent asthma / exercise‑induced bronchospasm** – episodes of sudden shortness of breath and chest tightness that appear with exertion or stress, but with a normal resting chest exam and no wheeze.  Asthma can be completely asymptomatic at rest and is often precipitated by physical activity, anxiety, or GERD, matching the patient’s symptoms and the pulmonologist’s differential.
+- **Premature Ventricular Contractions (PVC‑related Arrhythmia)** – Holter monitoring recorded occasional PVCs, which can trigger brief chest discomfort or light‑headedness; while not sustained, they remain a plausible organic explanation for the episodic symptoms.
 
-- **Paroxysmal supraventricular tachycardia (PSVT) / orthostatic tachycardia (POTS)** – the cardiology report lists PSVT, paroxysmal AF, and POTS as likely causes of the palpitations, dizziness, transient chest discomfort, and brief SOB, all of which are missed on a single‑day Holter.  Extended ambulatory monitoring is recommended because these arrhythmias are intermittent and can explain the episodic nature of the patient’s symptoms.
+- **Potential Coronary Vasospasm (Prinzmetal‑type Angina)** – Episodes of chest pain, diaphoresis, and dizziness at rest fit a vasospastic pattern; normal resting ECG/echo and lack of sustained arrhythmias do not rule out micro‑vasospasm, making it a reasonable differential.

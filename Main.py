@@ -11,7 +11,7 @@ import json, os
 API_KEY = os.getenv("OPENROUTER_API_KEY")
 
 # read the medical report
-with open("Project\AI-Agents-for-Medical-Diagnostics\Medical Reports\Medical Rerort - Michael Johnson - Panic Attack Disorder.txt", "r", encoding="utf-8") as file:
+with open("Medical Reports\Medical Rerort - Michael Johnson - Panic Attack Disorder.txt", "r", encoding="utf-8") as file:
     medical_report = file.read()
 
 
@@ -46,7 +46,7 @@ final_diagnosis = team_agent.run()
 final_diagnosis_text = "### Final Diagnosis:\n\n" + final_diagnosis
 # Save inside the project's Results directory next to this script
 base_dir = os.path.dirname(os.path.abspath(__file__))
-txt_output_path = os.path.join(base_dir, "Results", "final_diagnosis2.txt")
+txt_output_path = os.path.join(base_dir, "Results", "final_diagnosis_Michel_Johnson.txt")
 
 # Ensure the directory exists
 os.makedirs(os.path.dirname(txt_output_path), exist_ok=True)
